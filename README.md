@@ -37,16 +37,23 @@ Data Sources:
 1. Behavioural Risk Factor Surveillance System (BRFSS) 2023 
 
 Source: Centers for Disease Control and Prevention (CDC) 
+
 Unit: Individual survey responses, aggregated to the state level 
+
 File: LLCP2023.XPT 
+
 Download: https://www.cdc.gov/brfss/annual_data/annual_2023.html 
 
 Variable Description: 
 
-MENTHLTH: Number of poor mental health days in the past 30 days
-ADDEPEV3: Ever diagnosed with depression (binary)
+MENTHLTH: Number of poor mental health days in the past 30 days 
+
+ADDEPEV3: Ever diagnosed with depression (binary) 
+
 EDUCA: Education level 
+
 INCOME3: Income bracket 
+
 PRIMINS1: Primary health insurance status 
 
 _STATE: State FIPS code
@@ -74,7 +81,7 @@ Source: U.S. Census Bureau, Population Estimates Program (2023)
 
 Note: Manually entered in script for normalization (facilities per 100k residents) 
 
-Methods 
+Methods: 
 
 Data Preparation 
 
