@@ -55,7 +55,7 @@ Download: https://www.samhsa.gov/data/
 
 Variable Description: 
 
-INMHIndicator: facility offers mental health services 
+INMH: Indicator facility offers mental health services 
 
 LOCATIONSTATE: State abbreviation of facility location
 
