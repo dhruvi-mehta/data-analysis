@@ -1,23 +1,23 @@
 Mental Health Facility Access & Outcomes in the U.S.
 Does building more facilities actually improve mental health?
 
-Project Overview
-Over 1 in 5 adults in the United States experience mental illness each year (NIMH, 2023), yet fewer than 50% of those adults were able to access care in 2021 (NAMI, 2023). These gaps are even more pronounced among marginalized groups, including LGBTQ+ communities, communities of color, and rural populations, who face compounding barriers such as provider shortages, affordability issues, and geographic inaccessibility.
-The consequences are significant. An estimated 33.5% of adults with mental illness also struggle with substance use, and 70% of youth in juvenile detention have been diagnosed with a mental health condition.
+Project Overview: 
+Over 1 in 5 adults in the United States experience mental illness each year (NIMH, 2023), yet fewer than 50% of those adults were able to access care in 2021 (NAMI, 2023). These gaps are even more pronounced among marginalized groups, including LGBTQ+ communities, communities of color, and rural populations, who face compounding barriers such as provider shortages, affordability issues, and geographic inaccessibility. 
+The consequences are significant. An estimated 33.5% of adults with mental illness also struggle with substance use, and 70% of youth in juvenile detention have been diagnosed with a mental health condition. 
 
-This project investigates a simple question:
+This project investigates a simple question: 
 
-Does the number of mental health treatment facilities in a state improve mental health outcomes for its residents?
+Does the number of mental health treatment facilities in a state improve mental health outcomes for its residents? 
 
 Using 2023 national data from two federal sources, this analysis tests whether facility availability is the solution or whether deeper structural factors are at play.
 
-Research Question & Hypotheses
+Research Question & Hypotheses: 
 Research Question: How does the geographic distribution of mental health treatment facilities impact community mental health outcomes in the U.S.?
-Hypothesis Statement
-H₀: There is no statistically significant relationship between facility access and mental health outcomes.
-H₁: There is a statistically significant relationship between mental health facility availability and mental health outcomes
+Hypothesis Statement 
+H₀: There is no statistically significant relationship between facility access and mental health outcomes. 
+H₁: There is a statistically significant relationship between mental health facility availability and mental health outcomes. 
 
-Key Findings:
+Key Findings: 
 Facility density alone is not enough. States with higher mental health facility density (e.g., Maine, Vermont) did not show significantly better mental health outcomes. The correlation between facility density and average poor mental health days was weak and non-significant (r = -0.19, p > 0.05).
 A slight positive correlation was found between facility density and depression diagnosis rates (r = 0.19), but this was also not statistically significant.
 Socioeconomic status is the real driver. A Principal Component Analysis (PCA)-derived SES index combining income, education, and insurance coverage was the only statistically significant predictor of mental health outcomes (p < 0.001) in the regression model.
@@ -25,8 +25,8 @@ Regional disparities are stark. States in the Southeast and parts of the Midwest
 
 Bottom line: Access to care is not the same as the ability to use it. Structural conditions, including income, education, and insurance coverage, shape mental health outcomes more than physical proximity to facilities.
 
-Data Sources
-1. Behavioural Risk Factor Surveillance System (BRFSS) 2023
+Data Sources: 
+1. Behavioural Risk Factor Surveillance System (BRFSS) 2023 
 
 Source: Centers for Disease Control and Prevention (CDC)
 Unit: Individual survey responses, aggregated to the state level
