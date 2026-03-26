@@ -35,10 +35,15 @@ Download: https://www.cdc.gov/brfss/annual_data/annual_2023.html
 
 Variable Description
 MENTHLTH: Number of poor mental health days in the past 30 days
+
 ADDEPEV3: Ever diagnosed with depression (binary)
+
 EDUCA: Education level
+
 INCOME3: Income bracket
+
 PRIMINS1: Primary health insurance status
+
 _STATE: State FIPS code
 
 2. National Substance Use and Mental Health Services Survey (NSUMHSS) 2023
@@ -50,6 +55,7 @@ Download: https://www.samhsa.gov/data/
 
 Variable Description:
 INMHIndicator: facility offers mental health services
+
 LOCATIONSTATE: State abbreviation of facility location
 
 3. State Population Data
