@@ -38,11 +38,11 @@ MENTHLTH: Number of poor mental health days in the past 30 days
 
 ADDEPEV3: Ever diagnosed with depression (binary)
 
-EDUCA: Education level |
+EDUCA: Education level 
 
-INCOME3: Income bracket |
+INCOME3: Income bracket 
 
-PRIMINS1: Primary health insurance status |
+PRIMINS1: Primary health insurance status 
 
 _STATE: State FIPS code
 
@@ -53,8 +53,9 @@ Unit: Facility-level data, aggregated to the state level
 File: NSUMHSS_2023_PUF_CSV.csv
 Download: https://www.samhsa.gov/data/
 
-Variable Description:
-INMHIndicator: facility offers mental health services |
+Variable Description: 
+
+INMHIndicator: facility offers mental health services 
 
 LOCATIONSTATE: State abbreviation of facility location
 
